@@ -36,4 +36,9 @@ git branch deposit
 git checkout deposit
 git pull
 
+to change branch to master
+git checkout master
+git branch
+
+
 
