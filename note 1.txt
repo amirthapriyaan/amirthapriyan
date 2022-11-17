@@ -27,3 +27,13 @@ git init
 git commit --m "complete"
 git remote add origin https://github.com/amirthapriyaan/amirthapriyan.git
 git push
+ 
+to change master to branch:
+
+ls
+ll
+git branch deposit
+git checkout deposit
+git pull
+
+
