@@ -22,10 +22,9 @@ git pull
 
 to add a new document in local drive:
 add a document
-git add "c:\git"
 git init
+git add "c:\git"
 git commit --m "complete"
-git remote add origin https://github.com/amirthapriyaan/amirthapriyan.git
 git push
  
 to change master to branch:
