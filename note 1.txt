@@ -1,1 +1,29 @@
 GIT 
+
+to add resporitry
+git --version
+pwd
+git status
+cd "c:\git"
+pwd
+git add "c:\git"
+pwd
+git init
+git status
+git config --global user.email "amirthapriyanjayabalan@gmail.com"
+git config --global user.name "amirthapriyaan"
+git commit -m "complete"
+git remote add origin https://github.com/amirthapriyaan/amirthapriyan.git
+git push -u origin master
+
+to edit resporitry in online:
+go and edit resporitry in online
+git pull
+
+to add a new document in local drive:
+add a document
+git add "c:\git"
+git init
+git commit --m "complete"
+git remote add origin https://github.com/amirthapriyaan/amirthapriyan.git
+git push
